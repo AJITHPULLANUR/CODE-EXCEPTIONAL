@@ -1,0 +1,260 @@
+@media(max-width:500px){
+
+.firstpart{
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+   
+    
+}
+.firstimage{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.menus{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    width: 100%;
+}
+.get{
+    width: 120px;
+}
+.secondpart{
+    height: 115vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 160%;
+    
+    
+}
+.heding{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 60vh;
+    padding-top: 1rem;
+    
+    
+}
+.best{
+    font-size: large;
+}
+.lead{
+    font-size: larger;
+    text-align: center;
+}
+.our{
+    text-align: center;
+}
+.box{
+    
+   height: 60vh;
+
+
+}
+.boxes{
+    width: 70%;
+    
+}
+.one{
+    width: 160%;
+    font-size: 15px;
+}
+.thirdpart{
+    width: 160%;
+    
+    height: 250vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bord{
+    width: 80%;
+    height: 70vh;
+
+}
+.see{
+    text-align: center;
+}
+.digi{
+    width: 160%;
+    
+    height: 170vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.digi1{
+    width: 96%;
+
+    
+
+}
+.digi2{
+    width: 100%;
+}
+.digimg{
+    width: 80%;
+}
+.dig{
+    
+    text-align: center
+    
+}
+.agent{
+    font-size: 35px
+
+
+}
+.applebox{
+    width: 160%;
+    height: 150vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.apple1{
+    display: flex;
+    
+    align-items: start;
+    justify-content: center;
+    height: 100%;
+
+}
+.apple2{
+    height: 120%;
+    text-align: center;
+    margin-left: 2px;
+}
+.market{
+    font-size: 35px;
+}
+.rating{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 160%;
+}
+.clients{
+    width: 160%;
+}
+.reviewbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 160%;
+    height: 250vh;
+    
+}
+.review{
+    width: 80%;
+    height: 70vh;
+}
+.red{
+    font-size: 30px;
+}
+.blue{
+    font-size: 35px;
+}
+.ggads{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 160%;
+}
+.gads{
+    width: 280px;
+}
+.emailbox{
+    display: flex;
+    flex-direction: column;
+    
+    width: 155%;
+    height: 50vh;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.end{
+    width: 160%;
+    height: 125vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.digital{
+    width: 95%;
+    
+    height: 60vh;
+}.links{
+    width: 100%;
+    
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.loc{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 25vh;
+}
+.digitalimage{
+    width: 350px;
+}
+.digitaltext{
+    font-size: 28px;
+}
+.locations{
+    display: flex;
+    width: 65%;
+    align-items: center;
+    
+    justify-content: start;
+    height: 40%;
+    font-size: 20px;
+    padding-top: 1rem;
+    
+}
+.social{
+    width: 160%;
+    height: 20vh;
+}
+.link1{
+    display: flex;
+    flex-direction: row;
+    
+}
+.refurb{
+    
+    margin: 3px;
+}
+
+
+
+
+
+
+
+
+
+}
